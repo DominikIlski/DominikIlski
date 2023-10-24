@@ -50,31 +50,11 @@
 
 
 <h1>What drives me</h1>
-
-![](/img/playlist.svg)
-
-
-<img src="img/playlist.svg" style="max-width: 100%;" alt="Spotify Playlist" />
-
-<svg width="100%" height="352"   xmlns="http://www.w3.org/2000/svg">
-<svg width="100%" height="352" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="352">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <iframe
-        src="https://open.spotify.com/embed/playlist/0wsV2HC80NqZuieuxlr3bJ?utm_source=generator&theme=0"
-        style="border-radius: 12px"
-        width="100%"
-        height="352"
-        frameBorder="0"
-        allowfullscreen=""
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        loading="lazy"
-      ></iframe>
-    </div>
-  </foreignObject>
-</svg>
-
-
+<div align="center">
+<a href="https://open.spotify.com/embed/playlist/0wsV2HC80NqZuieuxlr3bJ?utm_source=generator" target="_blank">
+<img src="img/playlist.png" style="max-width: 100%;" alt="Spotify Playlist" />
+</a>
+<div>
 <br >
 <br >
 <div align="center">
@@ -96,8 +76,8 @@
   <a href="https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG?si=8f6e1c2a803a44ea" target="_blank"><img width="30" align='right' src="img/record.gif"></a>
 </p>
 
-<!-- <p align='center'>
+<p align='center'>
     <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDominikIlski"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDominikIlski&label=Visitors&labelColor=%23f47373&countColor=%23f47373&style=flat-square&labelStyle=upper" /></a>
-</p> -->
+</p>
 
 
