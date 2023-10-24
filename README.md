@@ -55,13 +55,11 @@
 <img src="img/playlist.png" style="max-width: 100%;" alt="Spotify Playlist" />
 </a>
 <div>
-<br >
-<br >
+
 <div align="center">
   <a href="https://open.spotify.com/track/0RH4Bjokwg2I63LSV2piSJ?si=e0f9071f97734ab5" target="_blank"><img src="img/climbing.gif" style="max-width: 100%;" alt="Climbing" /></a>
 </div>
-<br >
-<br >
+
 <div align="center">
   <a href="https://open.spotify.com/track/1eoL2MmJ4u61ktIs8wawiQ?si=9fef0db4f7aa481a" target="_blank"><img src="img/plants.webp" style="max-width: 100%;" alt="Climbing" /></a>
 </div>
