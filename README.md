@@ -50,7 +50,20 @@
 
 
 <h1>What drives me</h1>
-<embed type="text/html" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0wsV2HC80NqZuieuxlr3bJ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></embde>
+
+![](/img/pros.png)
+
+
+<img src="img/playlist.svg" style="max-width: 100%;" alt="Spotify Playlist" />
+
+<svg width="100%" height="352"   xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="352"  >
+    <div xmlns="http://www.w3.org/1999/xhtml">
+       <embed type="text/html" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0wsV2HC80NqZuieuxlr3bJ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></embde>
+    </div>
+</foreignObject>
+</svg>
+
 <br >
 <br >
 <div align="center">
