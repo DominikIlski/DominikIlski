@@ -29,10 +29,16 @@
 
 <h2> More about me :)</h2>
 
+<p>
+  <a href="[https://open.spotify.com/track/4KyaRCvdM3ihxef4a8Em53?si=1b338478590a4a7d](https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy?si=91125a1897b44f2e)" target="_blank"><img width="200" align='left' src="img/spongedance.gif" alt="Cool dance :)"></a>
+</p>
+
 🧗‍♂️ Not just scaling code but rock walls too – I'm an avid climber, both in the digital realm and on actual mountains. Tackling challenges, whether it's a complex coding problem or a challenging boulder, fuels my passion for growth and achievement. <br>
 ☕ Brewing code and coffee – While my keyboard clacks away, I'm also a coffee aficionado who brews specialty blends during coding breaks. 
 <br>
-👥 Team player extraordinaire – As a former team leader chosen by my peers in University, I know the rhythm of collaboration. I take pride in fostering an environment where teammates not only work together but also thrive together.
+👥 Team player – As a former team leader chosen by my peers in University, I know the rhythm of collaboration. I take pride in fostering an environment where teammates not only work together but also thrive together.
+
+
 
 ---
 
