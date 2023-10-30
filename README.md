@@ -59,7 +59,7 @@
 <h2>My experience</h2>
 
 <ul>
-        <li>Experienced in a variety of web technologies (<a href="https://www.gethero.pl">React</a>, <a href="https://www.gethero.pl">Gatsby</a>, <a href="https://flotiq.com/starters/">GraphQL</a>, <a href="https://github.com/DominikIlski/DominikIlski/blob/main/at-work-nda-protected">Nest.js</a>, <a href="https://github.com/DominikIlski/DominikIlski/blob/main/at-work-nda-protected">Node.js</a>,<a href="https://github.com/DominikIlski/Flutter_ChatGPT">Flutter</a>).</li>
+        <li>Experienced in a variety of web technologies (<a href="https://www.gethero.pl">React</a>, <a href="https://www.gethero.pl">Gatsby</a>, <a href="https://flotiq.com/starters/">GraphQL</a>, <a href="https://github.com/DominikIlski/magma-skeleton">Nest.js</a>, <a href="https://github.com/DominikIlski/skeleton">Node.js</a>,<a href="https://github.com/DominikIlski/Flutter_ChatGPT">Flutter</a>).</li>
         <li>Worked on projects for the British NHS.</li>
         <li>Skilled in handling complex data structures.</li>
         <li>Proficient in API development and management.</li>
